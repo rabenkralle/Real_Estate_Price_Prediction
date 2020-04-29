@@ -1,1 +1,1 @@
-Competition to predict the price of flats in test.csv
+Kaggle competition to predict the price of flats in test.csv
